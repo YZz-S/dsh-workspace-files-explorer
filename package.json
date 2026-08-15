@@ -1,0 +1,22 @@
+{
+  "name": "workspace-files-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DeepSeek Harness (dsh) 工作区文件浏览器插件：浮层面板浏览当前会话工作区文件树，支持代码语法高亮与 Markdown 渲染预览。",
+  "license": "MIT",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "cordis",
+    "plugin",
+    "file-explorer",
+    "markdown-preview",
+    "code-preview"
+  ],
+  "files": [
+    "host.js",
+    "client.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
