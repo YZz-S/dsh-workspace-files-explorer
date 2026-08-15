@@ -1,0 +1,4 @@
+# workspace-files-explorer bundle patch: mounts the workspace-files-explorer row (host + browser halves).
+- insert:
+    - id: workspace-files-explorer
+      name: workspace-files-explorer
