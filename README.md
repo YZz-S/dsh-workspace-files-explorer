@@ -21,7 +21,7 @@ DeepSeek Harness（dsh）Web GUI 的工作区文件浏览器插件：在浮层�
 本仓库同时是可安装的 dsh 插件包（`package.json` 声明 `dsh.bundle` + `dsh.client`）：
 
 ```sh
-dsh plugin --profile web add github:YZz-S/workspace-files-explorer
+dsh plugin --profile web add github:YZz-S/dsh-workspace-files-explorer
 ```
 
 安装后「会话标题栏动作区」出现「工作区文件」按钮，浮层面板自动生效。
@@ -54,7 +54,7 @@ dsh plugin --profile web add github:YZz-S/workspace-files-explorer
 
 ### 方式二：可安装插件（常驻）
 
-见上文「安装（dsh.bundle）」：`dsh plugin --profile web add github:YZz-S/workspace-files-explorer`，插件随 profile 常驻，无需每次手动运行。
+见上文「安装（dsh.bundle）」：`dsh plugin --profile web add github:YZz-S/dsh-workspace-files-explorer`，插件随 profile 常驻，无需每次手动运行。
 
 ## 工作原理
 
